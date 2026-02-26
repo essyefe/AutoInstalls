@@ -4,8 +4,8 @@ Automação para instalar e atualizar uma lista de aplicações no Windows usand
 
 ## Tecnologias
 
-- Batchfile
-- PowerShell
+- **Batchfile (Windows Batch Script)** - linguagem de script utilizada no Prompt de Comando do Windows para automatizar tarefas administrativas e rotinas do sistema, permitindo execução de comandos, criação de loops, condicionais e manipulação de arquivos.
+- **PowerShell** - linguagem de script e automação desenvolvida pela Microsoft, baseada no .NET, utilizada para administração de sistemas, gerenciamento de serviços, manipulação de objetos, automação de tarefas avançadas e configuração de ambientes Windows e multiplataforma.
 
 ## Pré-requisitos
 - Windows 10 ou superior
